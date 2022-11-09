@@ -15,9 +15,10 @@ Technologies used:
 - Java Script
 
 Slider with beautiful animation.
+[see code](https://jsfiddle.net/AnastasiiaSo/sak1nvpj/2/)
 
 Tasks for the coming weeks:
 - [ ] Board
 - [ ] Game 
 
-[see code](https://jsfiddle.net/AnastasiiaSo/sak1nvpj/2/)
+
