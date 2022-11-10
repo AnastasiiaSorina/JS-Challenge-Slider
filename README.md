@@ -7,7 +7,7 @@ Create 5 interesting works. For a [Portfolio project](https://github.com/Anastas
 - [ ] Board
 - [ ] Game 
 
-# Project 2 | Slider
+# Project 3 | Slider
 ![Illustration for the project](https://github.com/AnastasiiaSorina/JS-Challenge-Slider/blob/main/imgSlider.gif)
 
 Technologies used:
